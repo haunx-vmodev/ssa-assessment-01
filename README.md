@@ -1,5 +1,5 @@
 # ssa-assessment-01
-Please take a look **Parking-Technical-SolutionProposal.pdf** for more details. A few images (**BUSINESS BASIC WORKFLOW**,**SYSTEM ARCHITECTURE**, **SYSTEM COMPONENTS**, **Database design diagram**)  are too small in pdf file so i added into README file so that you can easily to see.
+Please take a look **Parking-Technical-SolutionProposal.pdf** for more details. A few images (**BUSINESS BASIC WORKFLOW**,**SYSTEM ARCHITECTURE**, **SYSTEM COMPONENTS**, **Database design diagram**)  are too small in pdf file so i added them into README file so that you can see easily.
 In **Parking-Technical-SolutionProposal.pdf** file includes:
 ## 1. Product Requirements:
    * BUSINESS BASIC WORKFLOW - Create new parking space, payment and booking
