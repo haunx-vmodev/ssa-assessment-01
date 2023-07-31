@@ -12,15 +12,15 @@ In **Parking-Technical-SolutionProposal.pdf** file includes:
 ![SADiagramHighLevel-SA-TEST-SystemArchitecuture](./SADiagramHighLevel-SystemArchitecuture.jpg)
 #### 2.2 SYSTEM COMPONENTS
 ![SADiagramHighLevel-SA-TEST-ComponentsFlow](./SADiagramHighLevel-SystemComponents.jpg)
-#### 2.3 TECH STACK EVALUATION
-#### 2.4 TECH-STACK
-#### 2.5 SECURITY
-#### 2.6 SCALABILITY/AVAILABILITY AND INTEGRATION WITH AWS CLOUD SERVICES
-#### 2.7 INTEGRATION OF JAVASCRIPT FRAMEWORKS
-#### 2.8 MOBILE APPLICATION - UI VISUALIZATION
-#### 2.9 REPORTING AND ANALYTICS
-#### 2.10 SERVER CONFIGURATION
-## 3. Database design
+#### 2.3 TECH STACK EVALUATION (please refer pdf file)
+#### 2.4 TECH-STACK (please refer pdf file)
+#### 2.5 SECURITY (please refer pdf file)
+#### 2.6 SCALABILITY/AVAILABILITY AND INTEGRATION WITH AWS CLOUD SERVICES (please refer pdf file)
+#### 2.7 INTEGRATION OF JAVASCRIPT FRAMEWORKS (please refer pdf file)
+#### 2.8 MOBILE APPLICATION - UI VISUALIZATION (please refer pdf file)
+#### 2.9 REPORTING AND ANALYTICS (please refer pdf file)
+#### 2.10 SERVER CONFIGURATION (please refer pdf file)
+## 3. Database design (please refer pdf file)
 ![park_pass_diagram](./park_pass_diagram.png)
 #### 3.1 Database description
 * To know more about the description of each table and column, please refer to this [link](https://dbdiagram.io/d/64c07ea702bd1c4a5eb250ae)
